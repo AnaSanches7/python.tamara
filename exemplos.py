@@ -13,3 +13,9 @@ print("o faturamento foi de",1000-700)
 #numeros com casa decimal é o float
 
 teve_lucro= True
+
+#margem_lucro
+
+print(" A margem do lucro foi de",margem_lucro)
+
+margem/Lucro=
